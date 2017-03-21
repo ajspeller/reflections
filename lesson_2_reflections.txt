@@ -10,4 +10,6 @@ How can you use the staging area to make sure you have one commit per logical ch
 
 	You can compare the staging area to the repository to ensure that you have one commit per logical change.
 
-	
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+	Branched are good if you were to update the project to a new language or to try to implement a new experimental update while keeping the master copy of the software intact.
