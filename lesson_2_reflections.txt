@@ -1,3 +1,7 @@
 What happens when you initialize a repository? Why do you need to do it?
 
 	That just means that you are letting git know that you want to start an repo in that folder.
+
+How is the staging area different from the working directory and the repository? What value do you think it offers?
+
+	The staging area give you the opportunity to see which file will be committed before actually running the commit command.  The value is that you are less likely to mistakenly commit files to your repository.
