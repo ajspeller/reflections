@@ -22,3 +22,10 @@ What is the result of merging two branches together? Why do we represent it in t
 
 	When you merge 2 branches you are combining the code base.  It is represented showing 2 parents because we do not want to lose any of the commits.  It preserves the true history of the code base.
 
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+	The pros of automatic merging is that no conflicts were found and git is able to combine the code without your intervention.
+	The con of automatic merging would be files that dont make sense because git does not have the logic to decide which changes should be kept.
+	The pros of manual merging is that you know the context of the code and can make the best decision.
+	The cons of manual merging is that is takes longer to accomplish.
+
