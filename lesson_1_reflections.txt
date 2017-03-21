@@ -1,0 +1,10 @@
+How did viewing a diff between two versions of a file help you see the bug that
+was introduced?
+
+    It helped because I did not have to concentrate on each line of the entire file.  I was able to execute the FC program and have it target the differences.  At that point I could make a decision based on the recognized differences.
+
+How could having easy access to the entire history of a file make you a more
+efficient programmer in the long term?
+
+    If I have the entire history of the file then I dont have to retain copies of the same file with slightly different names.  It also allows me to see how the file has gradually changed over time.
+    
